@@ -1,0 +1,19 @@
+Songs:
+    - Verse1: 2
+      Verse2: 4
+      Chorus: 3
+      Bridge: 5
+      Outro: 6
+      Other: 7
+    - Verse1: 8
+      Verse2: 
+      Chorus: 10
+      Bridge: 12
+      Outro: 13
+      Other: 
+    - Verse1: 14
+      Verse2: 
+      Chorus: 16
+      Bridge: 
+      Outro: 18
+      Other: 
